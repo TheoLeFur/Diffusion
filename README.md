@@ -1,6 +1,7 @@
 #About
+
 Basic implementation of diffusive model for image generation. The idea is to use the Focker-Planck equation, whose solution is the "steepest descent" process in terms of the Wasserstein distance, to introduce noise into the image in the most diffusive manner. The model is then charged to find the initial condition to the stochastic differential equaion, given its trajectory. 
-g"
+
 #Setup
 To clone the repository, run
 ```
