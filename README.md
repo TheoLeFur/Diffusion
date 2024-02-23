@@ -4,14 +4,19 @@ Basic implementation of diffusive model for image generation. The idea is to use
 
 <h3>Setup</h3>
 To clone the repository, run
+
 ```
 git clone https://github.com/TheoLeFur/Diffusion.git
 ```
+
 Download the requirements using
+
 ```
 pip install -r requirements.txt
 ```
+
 To start training the model, run:
+
 ```
 python3 main.py
 ```
